@@ -1,3 +1,5 @@
+![CI](https://github.com/sunyisenyap/weather_app/actions/workflows/flutter-ci.yml/badge.svg)
+
 # weather_app
 
 A new Flutter project.
